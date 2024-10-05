@@ -65,6 +65,12 @@ Desenvolver este projeto de RPG é uma excelente forma de aprofundar seus conhec
 - Compreender como interagir com o DOM e criar aplicações web dinâmicas.
 - Desenvolver uma mentalidade de programação orientada a eventos.
 
+## Visualização do Jogo
+
+Veja como o jogo ficou visualmente:
+
+![Captura de Tela do Jogo](https://github.com/GHERARDI-JOAO/JAVASCRIPT-PROJETOS/blob/main/rolePlayingGame/Imagens%20do%20Jogo/Captura%20de%20Tela%20(27).png)
+
 ## Conclusão
 
 Este projeto de Jogo de RPG em JavaScript oferece uma base sólida para quem deseja aprender e praticar programação. Através da construção deste jogo, você não apenas aprenderá os fundamentos da linguagem, mas também ganhará experiência prática na criação de aplicações interativas. Divirta-se jogando e programando!
