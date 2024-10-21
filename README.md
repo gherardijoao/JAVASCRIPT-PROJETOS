@@ -25,7 +25,7 @@ Este repositório contém projetos desenvolvidos em **JavaScript**, focando na a
 - **Descrição**: Um player de música interativo desenvolvido com JavaScript Vanilla, HTML e CSS. O player permite que os usuários toquem músicas, pausem, avancem para a próxima faixa, voltem para a faixa anterior, embaralhem a lista de reprodução e removam músicas.
 - **Tecnologias Utilizadas**: HTML, CSS, JavaScript.
 - **Link para o projeto**: [Music Player](https://github.com/GHERARDI-JOAO/JAVASCRIPT-PROJETOS/tree/main/musicPlayer)
-- **Visualização do projeto**: ![Music Player](musicPlayer.png)
+- **Visualização do projeto**: ![Music Player](https://github.com/GHERARDI-JOAO/JAVASCRIPT-PROJETOS/blob/main/musicPlayer/musicPlayer.png)
 
 ## Conclusão
 
