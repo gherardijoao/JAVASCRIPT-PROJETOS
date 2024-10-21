@@ -20,6 +20,13 @@ Este repositório contém projetos desenvolvidos em **JavaScript**, focando na a
 - **Link para o projeto**: [Jogo de RPG](https://github.com/GHERARDI-JOAO/JAVASCRIPT-PROJETOS/tree/main/rolePlayingGame)
 - **Visualização do projeto**: ![Jogo de RPG](https://github.com/GHERARDI-JOAO/JAVASCRIPT-PROJETOS/blob/main/rolePlayingGame/Imagens%20do%20Jogo/Captura%20de%20Tela%20(27).png)
 
+### 3. Music Player
+
+- **Descrição**: Um player de música interativo desenvolvido com JavaScript Vanilla, HTML e CSS. O player permite que os usuários toquem músicas, pausem, avancem para a próxima faixa, voltem para a faixa anterior, embaralhem a lista de reprodução e removam músicas.
+- **Tecnologias Utilizadas**: HTML, CSS, JavaScript.
+- **Link para o projeto**: [Music Player](https://github.com/GHERARDI-JOAO/JAVASCRIPT-PROJETOS/tree/main/musicPlayer)
+- **Visualização do projeto**: ![Music Player](musicPlayer.png)
+
 ## Conclusão
 
 Estes projetos refletem meu progresso e aprendizado em JavaScript, e estou empolgado para continuar explorando novas funcionalidades e técnicas. Sinta-se à vontade para explorar os projetos e aprender junto comigo!
