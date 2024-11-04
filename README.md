@@ -12,7 +12,7 @@ Este repositório contém projetos desenvolvidos em **JavaScript**, focando na a
 - **Tecnologias Utilizadas**: 
   - **Frontend**: HTML, CSS, JavaScript.
   - **API**: Utilização da PokéAPI para busca de dados dos Pokémon.
-- **Link para o projeto**: [Pokémon Search App](https://github.com/GHERARDI-JOAO/JAVASCRIPT-PROJETOS/tree/main/pokemonSearch)
+- **Link para o projeto**: [Pokémon Search App](https://github.com/GHERARDI-JOAO/JAVASCRIPT-PROJETOS/tree/main/PokemonSearch)
 - **Visualização do projeto**: ![Pokémon Search App](https://github.com/GHERARDI-JOAO/JAVASCRIPT-PROJETOS/blob/main/PokemonSearch/Captura%20de%20Tela%20(52).png)
 
 ### 2. Movie Seat Booking
