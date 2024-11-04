@@ -1,6 +1,6 @@
 # Pokémon Search App
 
-![Pokémon Search App](pokemonSearchApp.png)
+![Pokémon Search App](https://github.com/GHERARDI-JOAO/JAVASCRIPT-PROJETOS/blob/main/PokemonSearch/Captura%20de%20Tela%20(52).png)
 
 Este é o projeto final para a certificação **JavaScript Algorithms and Data Structures** do [freeCodeCamp](https://www.freecodecamp.org/). Ele consiste em uma aplicação web para buscar informações detalhadas sobre qualquer Pokémon usando a API pública da [PokéAPI](https://pokeapi-proxy.freecodecamp.rocks/). Com essa aplicação, os usuários podem buscar por Pokémons pelo nome ou ID e ver detalhes como sprite, tipos, estatísticas e dimensões físicas (peso e altura).
 
@@ -30,7 +30,7 @@ Este é o projeto final para a certificação **JavaScript Algorithms and Data S
 ## Como Usar
 
 1. Clone este repositório ou faça o download dos arquivos.
-2. Abra o arquivo `index.html` em um navegador.
+2. Abra o arquivo `pokemon.html` em um navegador.
 3. Digite o nome ou ID de um Pokémon e clique no botão de busca para visualizar suas informações.
 
 ## Tecnologias Utilizadas
