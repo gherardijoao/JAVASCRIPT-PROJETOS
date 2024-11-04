@@ -1,4 +1,4 @@
-# 🚀 Projetos em JavaScript
+# Projetos em JavaScript
 
 ## Visão Geral
 
