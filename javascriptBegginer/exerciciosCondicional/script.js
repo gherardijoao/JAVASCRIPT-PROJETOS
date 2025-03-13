@@ -13,3 +13,22 @@ if (myAge > familiarAge) {
 } else if (myAge === familiarAge) {
   console.log("É igual");
 }
+
+function imc(peso, altura) {
+  const imc = peso / altura ** altura;
+  return imc;
+}
+
+console.log(imc(80, 1.8));
+
+function corFavorita(cor) {
+  if (cor === "azul") {
+    return "eu gosto do ceu";
+  } else if (cor === "verde") {
+    return "eu gosto de mato";
+  } else {
+    return "eu nao gosto de cores";
+  }
+}
+
+console.log(corFavorita("verde"));
